@@ -27,7 +27,7 @@
               "rxjs/Subject",
               "rxjs/Subscription"
             ],
-            "outputPath": "angular-build",
+            "outputPath": "dist/FEUser",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",

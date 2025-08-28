@@ -4,7 +4,7 @@
 
 export const environment = {
   name: "dev",
-  production: false,
+  production: true,
   iswithCredentials: true,
-  host: 'https://localhost:44309',
+  host: 'https://demo-j0rw.onrender.com',
 };
